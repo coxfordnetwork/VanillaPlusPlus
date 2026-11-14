@@ -1,0 +1,34 @@
+{
+  "schema_version": 8,
+  "global": {
+    "virtual_mouse_screens": [
+      "net.minecraft.client.gui.screens.inventory.AbstractContainerScreen"
+    ],
+    "mixed_input": false,
+    "out_of_focus_input": false,
+    "reach_around": "off",
+    "allow_server_rumble": true,
+    "extra_ui_sounds": true,
+    "notify_low_battery": true,
+    "ingame_button_guide_scale": 1.0,
+    "use_enhanced_steam_deck_driver": true,
+    "keyboard_movement": false,
+    "analogue_movement_whitelist": [],
+    "seen_servers": [
+      "mc.coxford.net"
+    ],
+    "show_splitscreen_ad": true
+  },
+  "devices": {
+    "cb39ae6a296e3462433803b77406bb57": {
+      "name": "Xbox 360 Controller for Windows",
+      "last_seen": 1794609234312,
+      "gyro_calibration": {}
+    },
+    "fabff0444bfd0d0c23c4d59e7df64fae": {
+      "name": "Logitech X52 Professional H.O.T.A.S.",
+      "last_seen": 1793834072032,
+      "gyro_calibration": {}
+    }
+  }
+}
